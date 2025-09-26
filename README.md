@@ -19,7 +19,7 @@ Unity Developer with 10+ years of experience in VR/AR/Android/iOS/PC/WebGL games
 ## 🔧 Tech Stack
 
 `Unity (URP/Built-in)` • `C#` • `.NET` • `Zenject` • `MVx Architecture` • `Atomic framework` • `Addressables` • `Optimization` • `CI/CD` • `ECS (DOTS)` • `Mirror` •
-`WebGL` • `XR (Pico, HTC)` • `Profiler` • `Unit Testing (NUnit)` • `Smart Merge` • `Jira` • `Notion`
+ `AR/VR/iOS/Android/WebGL` • `Profiler` • `Unit Testing (NUnit)` • `Smart Merge` • `Jira` • `Notion`
 
 ---
 
